@@ -32,7 +32,7 @@ Your information is used only to:
 - Simulate product browsing and ordering  
 - Support educational learning about e-commerce operations  
 
-> ❗ No real transactions are processed.
+> No real transactions are processed.
 
 ---
 
